@@ -1,6 +1,4 @@
-# crud-example
 
-> An example project for building RESTful interfaces with Nuxt.js. Built to support the article [Quickly Building RESTful UI's in NuxtJS](https://itnext.io/quickly-building-restful-uis-in-nuxtjs-782bce539440).
 
 ## Build Setup
 
